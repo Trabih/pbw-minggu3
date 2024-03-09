@@ -1,0 +1,25 @@
+header > h1{
+    background-color: #ccd0d3;
+    text-align: center;
+    padding: 25px;
+  }
+  h2{
+    background-color: #b90e0a;
+    text-decoration: underline;
+
+  }
+  
+  ol{
+    color:blue;
+  }
+  li{
+    color: black; 
+  }
+  
+  h3{
+    font-family: "Times new roman";
+  }
+
+  h4{
+    color: #b90e0a;
+  }
